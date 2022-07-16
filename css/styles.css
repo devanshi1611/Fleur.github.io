@@ -180,3 +180,9 @@ h2{
     font-size: 20px;
     padding-bottom: 10px;
 }
+@media (max-width:1000px){
+    .brbr{
+        border: #231955 solid;
+        border-width: 10px;       
+    }
+}
