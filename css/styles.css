@@ -1,0 +1,182 @@
+/* Title */
+#title{
+    background-color: #FCF8E8;
+}
+.container-fluid{
+    padding: 3% 20%;
+}
+
+/* navigationbar */
+.navbarx{
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+.main{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.xyz{
+    font-size: 15px;
+    color: black;
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+}
+.navitem{
+    background-color: red;
+}
+.bar{
+    margin: 20px 150px;
+}
+
+.navbarbox{
+    display: flex;
+}
+#navbarTogglerDemo02{
+    margin-right: 0;
+}
+
+/* starting text */
+.text1{
+    font-family: 'Caveat', cursive;
+    padding-top: 20px;
+    margin-left:20%;
+    margin-right:10%;
+    font-weight: bold;
+    color: #1F4690;
+    font-size: 50px;
+}
+.boll{
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.btn1{
+    margin-left: 10%;
+}
+
+/* download buttons */
+.newclass{
+    font-family: 'Libre Baskerville', serif;
+    margin-left: 107px;
+    margin-bottom: 30px;
+    padding: auto;
+}
+
+/* frirst image */
+.img1{
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+/* features section */
+#features{   
+    padding: 6% 15%;
+    background-color: #F9F9C5;   
+}
+.feature-box{
+    text-align: center;
+}
+h2{
+    font-family: 'Caveat', cursive;
+    font-weight: bold;
+    font-size: 10cm;
+    color: #243A73;
+}
+.text2{
+    font-family: 'Caveat', cursive;
+    font-size: 24px;
+    color: #354259;
+}
+.icon{
+    padding-bottom: 20px;
+    color: black ;
+}
+.icon:hover{
+    color: #231955;
+}
+
+/* Testimonials */
+#testimonials{
+    padding: 3% 10%;
+    text-align: center;
+    background-color: #FFE5B4;
+}
+.text3{
+    font-family: 'Caveat', cursive;
+    font-size: 37px;
+    padding: 20px 30px;
+}
+.img2{
+    border-radius: 100%;
+    width: 30%;
+    margin: 20px;
+}
+
+/* press section */
+#press{
+    text-align: center;
+    padding-bottom: 30px;
+    background-color: #FFE5B4;
+    padding-bottom: 30px;
+}
+.logo{
+    width: 13%;
+    margin-right: 20px;
+}
+
+.slide{
+    padding: 2px 2px;
+}
+
+/* pricing */
+#pricing{
+    text-align: center;
+    padding: 6% 10%;
+    background-color: #A2D5AB;
+}
+.card{
+    font-family: 'Caveat', cursive;
+}
+.card-deck{
+    padding-top: 15px;
+}
+.header{
+    color: #06283D;
+    background-color: #839AA8;
+    font-size: 29px;
+}
+.body{
+    background-color: #D6EFED;
+}
+.text4{
+    font-size: 15px;
+}
+
+#cta{
+    background-color: #39AEA9;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-family: 'Caveat', cursive;
+}
+.bc{
+    font-family: 'Caveat', cursive;
+    font-size: 34px;
+    color: #06283D;
+}
+.newclass2{
+    font-family: 'Libre Baskerville', serif;
+    padding-top: 15px;
+}
+.x{
+    margin-right: 20px;
+}
+#footer{
+    background-color: #39AEA9;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
